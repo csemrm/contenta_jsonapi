@@ -43,7 +43,11 @@
                 "               See: https://www.drupal.org/node/3082474"
             ]
         },
-        "patches": {}
+        "patches": {
+            "drupal/core": {
+                "3162228-18.patch":"https://www.drupal.org/files/issues/2021-05-27/3162228-18.patch"
+            }
+        }
     },
     "require": {
         "composer/installers": "^1.9",
