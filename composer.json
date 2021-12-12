@@ -9,6 +9,10 @@
         {
             "name": "Daniel Wehner",
             "email": "dawehner@users.noreply.github.com"
+        },
+        {
+            "name": "Mostafizur Rahman",
+            "email": "csemrm@users.noreply.github.com"
         }
     ],
     "minimum-stability": "dev",
